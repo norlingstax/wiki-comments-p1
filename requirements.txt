@@ -1,0 +1,24 @@
+# Core numeric stack
+numpy
+scipy
+pandas
+
+# Modelling
+scikit-learn
+joblib
+threadpoolctl
+
+# Configs
+PyYAML
+
+# Plots
+matplotlib
+
+# Hyperparameter search
+scikit-optimize
+
+# Preprocess
+spacy
+thinc
+nltk
+spacy-lookups-data
